@@ -8,7 +8,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "file:///C:/Users/navee/Desktop/Designfolio-main/index.html",
+            "url": "file:///C:/Users/navee/OneDrive/Desktop/Designfolio-main/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
