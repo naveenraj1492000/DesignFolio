@@ -62,7 +62,7 @@ const titleElement = document.getElementById('design-title');
 const titles = ["Mechanical Design Engineer", "Electro Mechanical Design Engineer", "Electrical Panel Design Engineer"];
 let currentIndex = 0;
 
-titleElement.style.fontSize = "22px";
+titleElement.style.fontSize = "20px";
 
 function cycleTitles() {
   const currentTitle = titles[currentIndex];
